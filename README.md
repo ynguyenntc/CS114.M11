@@ -25,8 +25,8 @@
 * **Giảng viên:**
 | STT | Họ tên | Email |
 | :---: | --- | --- |
-| 1 | **Lê Đình Duy** |  |
-| 2 | **Phạm Nguyễn Trường An** |  |
+| 1 | **Lê Đình Duy** | *duyld@uit.edu.vn* |
+| 2 | **Phạm Nguyễn Trường An** | *truonganpn@uit.edu.vn*  |
 
 ## THÀNH VIÊN NHÓM
 | STT | Họ tên | MSSV | Vai trò | Email | Github | Facebook |
