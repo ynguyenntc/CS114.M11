@@ -33,7 +33,7 @@
 | STT | Họ tên | MSSV | Vai trò | Email | Github | Facebook |
 | :---: | --- | --- | --- | --- | --- | --- |
 | 1 | Nguyễn Thị Như Ý | 19522555 | Thành viên | *19522555@gm.uit.edu.vn* | [ynguyenntc](https://github.com/ynguyenntc) | [ynguyen.ntc](https://www.facebook.com/ynguyen.ntc) |
-
+| 2 | Lê Dương Khánh Việt | 19522515 |Thành viên |*19522515@gm.uit.edu.vn*   | [19522515](https://github.com/19522515)  |[viethappy](https://www.facebook.com/viethappy) |
 ## ĐỒ ÁN CUỐI KỲ
 * **Tên đồ án:** 
 
