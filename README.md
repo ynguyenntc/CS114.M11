@@ -34,7 +34,7 @@
 | :---: | --- | --- | --- | --- | --- | --- |
 | 1 | Nguyễn Thị Như Ý | 19522555 | Thành viên | *19522555@gm.uit.edu.vn* | [ynguyenntc](https://github.com/ynguyenntc) | [ynguyen.ntc](https://www.facebook.com/ynguyen.ntc) |
 | 2 | Lê Dương Khánh Việt | 19522515 |Thành viên |*19522515@gm.uit.edu.vn*   | [19522515](https://github.com/19522515)  |[viethappy](https://www.facebook.com/viethappy) |
-| 3 |  Đỗ Vũ Gia Cần | 19521271 | Thành viên | *19521271@gm.uit.edu.vn* | [19521271](https://github.com/dovugiacan14) | 
+| 3 |  Đỗ Vũ Gia Cần | 19521271 | Thành viên | *19521271@gm.uit.edu.vn* | [dovugiacan14](https://github.com/dovugiacan14) | [furykid14](https://www.facebook.com/profile.php?id=100006960159441) |
 ## ĐỒ ÁN CUỐI KỲ
 * **Tên đồ án:** 
 
