@@ -1,0 +1,9 @@
+Làm việc theo nhóm (dùng Breakout Rooms của MS Teams):
+	+ Các dạng bài toán ML là gì? câu hỏi tương tự là Phân loại các bài toán ML (gợi ý - supervised, unsupervised, regression, classification, etc)
+	+ Các bước để giải một bài toán ML là gì? Các khái niệm nào cần nắm (gợi ý - train/test/val, loss function, gradient descent, etc)
+	+ Linear regression - model, loss function, 1 var, multi var, etc
+Lưu ý:
+	+ Việc các trò không hiểu hết mọi thứ là chuyện bình thường
+	+ Nhưng sẽ ko bình thường nếu các trò ko biết đặt câu hỏi để nhờ Thầy giải thích
+	+ Các buổi sau, sẽ là phần hỏi đáp nên nếu ko hiểu cái gì, hãy VIẾT xuống câu hỏi
+​	+ Đặt câu hỏi cũng là một kỹ năng, và trước khi hỏi, hãy tự mình tìm hiểu, tự Google xem mình hiểu được bao nhiêu %,
