@@ -1,0 +1,13 @@
+
+train: ../train_data/images/train/  # train images (relative to 'path') 128 images
+val: ../train_data/images/val/  # val images (relative to 'path') 128 images
+
+# Classes
+nc: 61  # number of classes
+names: ['CamXeTren10Tan', 'CamXeTren5Tan', 'CamXeTren2.5Tan', 'CamDiNguocChieu', 'CamReTrai', 'CamRePhai', 'CamDungVaDoXe', 'CamXeTaiTren5Tan', 'CamOToKhach', 'CamQuayXe',
+        'ChoQuayXe', 'CamOToKhachVaOToTai', 'TocDoToiDa20km/h', 'TocDoToiDa30km/h', 'TocDoToiDa40km/h', 'TocDoToiDa50km/h', 'TocDoToiDa60km/h', 'TocDoToiDa80km/h', 'GiaoNhauVoiDuongKhongUuTienBenTrai', 'GiaoNhauVoiDuongKhongUuTienBenPhai',
+        'GiaoNhauVoiDuongKhongUuTienBenHaiBen', 'GiaoNhauVoiDuongUuTien', 'GiaoNhauVoiDuongKhongUuTien', 'GiaoNhauCoTinHieuDen', 'PhiaTruocNguyHiem', 'NhieuChoNgoatNguyHiemLienTiep', 'ChoNgoatNguyHiemVongBenTrai', 'ChoNgoatNguyHiemVongBenPhai', 'DiCham', 'DiThang',
+        'CongTruong', 'BatDauKhuDongDanCu', 'HetKhuDongDanCu', 'GiaoNhauChayVongXuyen', 'HuongPhaiVongChuongNgaiVat', 'HuongTraiVongChuongNgaiVat', 'BenXeBuyt', 'Cho',
+        'NoiDoXe', 'TramXangDau', 'CamDoXeNgayChan', 'TreEmDiNgang', 'DuongNguoiDiBoCatNgang', 'DuongNguoiDiBoSangNgang', 'DuongHepHaiBen', 'DuongGiaoNhauCungCap', 'ReTrai', 'RePhai',
+        'DungLai', 'TocDoToiDa100km/h', 'DuongOGa/h', 'CamDoXeNgayLe','CamXeTai','CamXeTren7Tan','HetHanCheTocDo40','CamVuot','ChiDuocReTraiVaDiThang','HetHanCheTocDo50','HetHanCheTocDo60','CamOToTaiVuot','ChiDuocRePhaiVaDiThang']  # class names
+
