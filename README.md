@@ -36,6 +36,6 @@
 | 2 | Lê Dương Khánh Việt | 19522515 |Thành viên |*19522515@gm.uit.edu.vn*   | [19522515](https://github.com/19522515)  |[viethappy](https://www.facebook.com/viethappy) |
 | 3 |  Đỗ Vũ Gia Cần | 19521271 | Thành viên | *19521271@gm.uit.edu.vn* | [dovugiacan14](https://github.com/dovugiacan14) | [furykid14](https://www.facebook.com/profile.php?id=100006960159441) |
 ## ĐỒ ÁN CUỐI KỲ
-* **Tên đồ án:** 
+* **Tên đồ án:** Nhận diện biển báo giao thông bằng yoloV5
 
 
